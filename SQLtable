@@ -1,0 +1,15 @@
+INSERT INTO car VALUES ('105', 'Toyota', 'Corola', '2010', 'Red', '1HGBH41JXMN876545');
+
+mysql> select * from car;
++-----+--------+----------+------+-------+-------------------+
+| ID  | MAKE   | MODEL    | YEAR | COLOR | VIN               |
++-----+--------+----------+------+-------+-------------------+
+| 100 | Honda  | Accord   | 2021 | Grey  | 1HGBH41JXMN109186 |
+| 101 | Toyota | Camry    | 2020 | White | 1HGBH41JXMN162679 |
+| 102 | Jeep   | Cherokke | 2015 | Black | 1HGBH41JXMN234567 |
+| 103 | Honda  | Civic    | 2014 | Green | 1HGBH41JXMN098765 |
+| 104 | Toyota | Corola   | 2020 | Brown | 1HGBH41JXMN876543 |
+| 105 | Toyota | Corola   | 2010 | Red   | 1HGBH41JXMN876545 |
++-----+--------+----------+------+-------+-------------------+
+6 rows in set (0.00 sec)
+
