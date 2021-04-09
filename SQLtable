@@ -8,8 +8,8 @@ mysql> select * from car;
 | 101 | Toyota | Camry    | 2020 | White | 1HGBH41JXMN162679 |
 | 102 | Jeep   | Cherokke | 2015 | Black | 1HGBH41JXMN234567 |
 | 103 | Honda  | Civic    | 2014 | Green | 1HGBH41JXMN098765 |
-| 104 | Toyota | Corola   | 2020 | Brown | 1HGBH41JXMN876543 |
-| 105 | Toyota | Corola   | 2010 | Red   | 1HGBH41JXMN876545 |
+| 104 | Toyota | Corolla   | 2020 | Brown | 1HGBH41JXMN876543 |
+| 105 | Toyota | Corolla   | 2010 | Red   | 1HGBH41JXMN876545 |
 +-----+--------+----------+------+-------+-------------------+
 6 rows in set (0.00 sec)
 
